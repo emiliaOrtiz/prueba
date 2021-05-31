@@ -1,0 +1,6 @@
+C:\Users\rikuk\OneDrive\Documentos\SharpDevelop Projects\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\rikuk\OneDrive\Documentos\SharpDevelop Projects\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\rikuk\OneDrive\Documentos\SharpDevelop Projects\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\rikuk\OneDrive\Documentos\SharpDevelop Projects\prueba\prueba\obj\Debug\prueba.csprojResolveAssemblyReference.cache
+C:\Users\rikuk\OneDrive\Documentos\SharpDevelop Projects\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\rikuk\OneDrive\Documentos\SharpDevelop Projects\prueba\prueba\obj\Debug\prueba.pdb
