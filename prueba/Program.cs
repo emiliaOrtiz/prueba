@@ -26,6 +26,7 @@ namespace prueba
 			Console.WriteLine("continuar : 1 o 0");
 			indicador=int.Parse(Console.ReadLine());
 			}
+			//soy un codigo modificado para subir a github
 			
 			while(indicador.Equals(1));
 			
