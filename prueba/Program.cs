@@ -27,6 +27,7 @@ namespace prueba
 			indicador=int.Parse(Console.ReadLine());
 			}
 			//soy un codigo modificado para subir a github
+			//actualizado2
 			
 			while(indicador.Equals(1));
 			
